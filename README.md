@@ -25,7 +25,7 @@ Clone or download this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/yMeRohit-Kumar/library-management-system.git
 Navigate to the project directory:
 
 bash
